@@ -1,0 +1,17 @@
+.header {
+  height: 70px;
+  background-color: rgb(67, 232, 149);
+}
+
+h2 {
+  text-align: center;
+  padding-top: 0.5cm;
+  color: aliceblue;
+}
+
+.map-icon {
+  height: 1cm;
+  margin-top: -0.7cm;
+  margin-right: 0.3cm;
+  float: right;
+}

@@ -1,0 +1,18 @@
+.footer {
+  height: 70px;
+  background-color: gray;
+}
+
+.lunch {
+  height: 1.1cm;
+  margin-top: 0.5cm;
+  margin-left: 5cm;
+  float: left;
+}
+
+.internet {
+  height: 1.1cm;
+  margin-top: 0.5cm;
+  margin-right: 5cm;
+  float: right;
+}
